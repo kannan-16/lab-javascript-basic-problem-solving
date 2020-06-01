@@ -54,3 +54,12 @@
 // "Was it a car or a cat I saw?" and "No 'x' in Nixon".
 
 // Hint: If you use Google to help you to find solution to this iteration, you might run into some solutions that use advanced string or array methods (such as join(), reverse(), etc.). However, try to apply the knowledge you currently have since you can build pretty nice solution with just using for loop, if-else statements with some break and continue... Just sayin' 
+
+
+
+
+
+
+//Pair Programming - 
+//Driver - Dinesh  - Writes the program, Syntax
+//Navigator - Bharani - Knows the logic, Checks the syntax errors
